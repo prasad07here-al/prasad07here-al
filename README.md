@@ -1,21 +1,14 @@
 <div align="center">
 
 👋 Hi, I'm Prasad Mahajan
-
-📊 Data Analyst | 📈 Business Intelligence | 💻 Final Year Integrated MCA Student
+📊 Data Analyst | 📈 Business Intelligence | 💻 Integrated MCA Student
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Intelligence;Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Turning+Raw+Data+into+Actionable+Insights;Building+Interactive+Dashboards+%26+Reports" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/prasad-mahajan-1231a526/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/prasad07here-al">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p> <a href="https://www.linkedin.com/in/prasad-mahajan-1231a526/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/prasad07here-al"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
 
-<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=prasad07here-al&label=Profile%20Views&color=36BCF7&style=flat" />
+
 
 </div>
 
